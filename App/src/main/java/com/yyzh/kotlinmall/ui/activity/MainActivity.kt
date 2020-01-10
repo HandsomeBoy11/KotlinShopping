@@ -141,7 +141,8 @@ class MainActivity : BaseActivity() {
         if (currentTimeMillis - lastTime >= 500) {
             toast("再次点击退出应用")
         } else {
-            AppManager.instance.exitApp(this)
+//            AppManager.instance.exitApp(this)
+            finish()
         }
         lastTime = currentTimeMillis
     }
