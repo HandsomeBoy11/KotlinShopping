@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.yyzh.ordercenter">
+
+    <application>
+        <activity android:name=".ui.activity.OrderAddressActivity"/>
+        <activity android:name=".ui.activity.ShipAddressEditActivity"/>
+        <activity android:name=".ui.activity.OrderConfirmActivity"/>
+        <activity android:name=".ui.activity.OrderActivity"/>
+        <activity android:name=".ui.activity.OrderDetailActivity"/>
+    </application>
+</manifest>

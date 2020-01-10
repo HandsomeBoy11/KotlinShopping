@@ -1,0 +1,1 @@
+include ':app', ':baselibrary', ':providerlibrary', ':usercase', ':goodscenter', ':ordercenter', ':message', ':paycenter'

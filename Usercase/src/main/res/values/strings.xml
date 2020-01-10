@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UserCase</string>
+    <string name="cinCode">请输入验证码</string>
+</resources>
